@@ -1,1 +1,11 @@
---type-add=ruby=.haml,.rake,.rsel
+# sort the files for easier viewing
+--sort-files
+# all-lower-case is case-insensitive, otherwise it's case sensitive
+--smart-case
+# Other file types we want to search
+--type-set=haml=.haml
+--type-set=less=.less
+--type-set=sass=.sass
+--type-set=scss=.scss
+--type-set=erb=.erb
+--type-set=coffee=.coffee
