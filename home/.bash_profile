@@ -51,16 +51,6 @@ alias gp='git push'
 alias hh='ga;gmm;gphm'
 export HEROKU_SSL_VERIFY=disable
 
-# a4t
-export a4t_client_id="97621154516-g220oa5knp4sam2lnka10ikko4mh9smm.apps.googleusercontent.com"
-export a4t_client_secret="aM_hscWgfcxh4fKqvvH-GvE4"
-export a4t_smtp_server="smtp.gmail.com"
-export a4t_smtp_user="tester@qualitysystems.com"
-export a4t_smtp_password="zaqxzaqczaqv"
-export a4t_chargify_api_key="ox6zZD1WRTS3yWRRicat"
-export a4t_chargify_shared_key="0fMNcqcSuTRxFiPsDZzK"
-export a4t_postmark_api_key="85b1278c-c107-497e-b93e-43cd8228b027"
-
 # tmux
 alias tm="tmux -2"
 
