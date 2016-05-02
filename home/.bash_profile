@@ -1,7 +1,7 @@
 # various aliases
-alias l='ls'
-alias ll='ls -al'
-alias lll='ls -al | more'
+alias l='ls --human --color=always'
+alias ll='ls -al --human --color=always'
+alias lll='ls -al --human --color=always | more'
 alias v='vim'
 alias f='find / -name'
 alias s='sudo -s'
